@@ -1,0 +1,40 @@
+.classmain {
+    margin: 0 auto;
+    width: 1910px;
+  }
+  h1 {
+    height: 80px;
+    margin: 20px auto 20px; 
+    padding-top: 0px;
+    font-size: 40px;
+    text-align: center;
+    width: 500px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin: 0 auto 20px;
+    text-align: center;
+    width: 500px;
+  }
+  
+  .content {
+    margin: 0 auto;
+    width: 700px;
+  }
+  ol {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  ol > li > span {
+    font-style: italic;
+    text-decoration: underline;
+  }
+  
+  .class1 li  {
+    font-size: 22px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
